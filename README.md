@@ -1,8 +1,11 @@
-### Hi there 👋
+# Halo saya Shinta Dwi Apriliani 👋
 
-My Name Is Shinta Dwi Apriliani
+Saya sedang Belajar :
 
-- 🔭 I’m currently working on Gemar Kode Developer
-- 🌱 I’m currently learning Javascript
+- Javascript
+- Typescipt
+- Tailwind
+- Bootstrap
+- GraphQL
 
 Virgo Girl !
