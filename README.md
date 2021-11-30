@@ -1,11 +1,15 @@
 # Halo saya Shinta Dwi Apriliani 👋
 
-Saya sedang Belajar :
-
-- Javascript
-- Typescipt
-- Tailwind
-- Bootstrap
-- GraphQL
-
-Virgo Girl !
+{
+  "data": {
+    "About": {
+      "name": "Shinta Dwi Apriliani",
+      "notes": "Virgo Girl"
+    },
+    "Tech": {
+      "language": "JavaScript",
+      "style": "Bootstrap",
+      "data": "GraphQL" 
+    }
+  }
+}
